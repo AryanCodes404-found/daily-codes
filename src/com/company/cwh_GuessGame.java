@@ -23,7 +23,7 @@ class Game1 {
 
     void takeUserInput() {
         Scanner s = new Scanner(System.in);
-        System.out.print("Guess the number (0-9): ");
+        System.out.print("Guess the number between (0-9): ");
         inputNumber = s.nextInt();
     }
 
