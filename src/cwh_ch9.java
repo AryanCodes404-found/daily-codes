@@ -1,4 +1,4 @@
-class circle {
+class circle1{
     private int radius;
     private int area;
     private int perimeter;
@@ -37,7 +37,7 @@ public class cwh_ch9 {
     public static void main(String[] args) {
         circle sol=new circle();
         sol.setRadius(5);
-sol.checkarea(75);
-sol.checkperimeter(30);
+//sol.checkarea(75);
+//sol.checkperimeter(30);
     }
 }
